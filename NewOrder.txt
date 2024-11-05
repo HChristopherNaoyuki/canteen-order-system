@@ -1,0 +1,7 @@
+Menu Choice: Burger
+Special Request: No
+Drink: Tea
+Water: Yes
+
+Amount Due: R 38.0
+
